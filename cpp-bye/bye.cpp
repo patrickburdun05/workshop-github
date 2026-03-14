@@ -2,6 +2,7 @@
 
 int main()
 {
-	std::cout << "Bye from Unikraft!" << std::endl;
+	int x = 2;
+	std::cout << "Bye from Unikraft! " << x << std::endl;
 	return 0;
 }
